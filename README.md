@@ -43,6 +43,8 @@ Identified days with extreme temperatures, low visibility, or high wind speeds.
 * #### Some days had both freezing temperatures and poor visibility.
 * #### Higher temperatures tend to correspond with lower relative humidity.
 * #### Colder temperatures show higher humidity values.
+* #### Winter experiences the coldest average temperatures,while summer sees the warmest temperatures with lower humidity levels
+* #### Spring and autumn show gradual temperature shifts, balancing between extreme cold and heat.
 
 ## 🚀 Conclusion
 * #### ✅ The dataset provides valuable insights into temperature, humidity, wind, and weather conditions over time.
